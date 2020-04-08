@@ -1,0 +1,60 @@
+{
+  
+    "userproperties": {
+      "chloor": false,
+      "Gewenste EC": 5.7,
+      "hergebruik": true,
+      "vast_meng": true,
+      "meng%": 30.0,
+      "EC%": 0.5,
+      "EC_regeling": false,
+      "teeltfase": "bloei 12e tros",
+      "ph_feed": "6.0",
+      "substraat": "steenwol",
+      "Gewas": "Tomaat",
+      "crop": "Tomaat gt",
+      "mat?": false,
+      "code": "5768b6ed-ad7d-46f5-a9a5-cbcaed632f6b",
+      "ph_mat": "5.7"
+    },
+    "mat_meting": {
+      "pH": 5.7,
+      "NH4": 0.2,
+      "K": 11.0,
+      "Na": 1.3,
+      "Ca": 19.0,
+      "Mg": 6.2,
+      "NO3": 40.0,
+      "Cl": 3.7,
+      "SO4": 7.8,
+      "H2PO4": 5.2,
+      "HCO3": 0.0,
+      "Fe": 39.4,
+      "Mn": 3.8,
+      "Zn": 12.8,
+      "B": 51.9,
+      "Cu": 0.8,
+      "Mo": 0.2
+    },
+    "feed_water": {
+      "NH4": 0.0,
+      "K": 0.0,
+      "Na": 0.0,
+      "Ca": 0.0,
+      "Mg": 0.0,
+      "NO3": 0.0,
+      "Cl": 0.0,
+      "SO4": 0.0,
+      "H2PO4": 0.0,
+      "HCO3": 0.0,
+      "Fe": 0.0,
+      "Mn": 0.0,
+      "Zn": 0.0,
+      "B": 0.0,
+      "Cu": 0.0,
+      "Mo": 0.0
+    },
+    "crop": "Tomaat gt"
+  
+}
+ 
